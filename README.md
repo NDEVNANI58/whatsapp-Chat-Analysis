@@ -1,8 +1,8 @@
 # whatsapp-Chat-Analysis
 
-Using this project we can analyze the chat between the groups/individuals. The information that we will get are mentioned below:
-1)It will convert the text data into the meangifull structured  data.
-2)No of msgs ,words, media and links shared by either mentioned user or whole group will be displayed
+# Using this project we can analyze the chat between the groups/individuals. The information that we will get are mentioned below:
+# 1)It will convert the text data into the meangifull structured  data.
+# 2)No of msgs ,words, media and links shared by either mentioned user or whole group will be displayed
 3)Most active day and month of mentioned user or whole group will be displayed
 4)Most active time line and year of mentioned user or whole group will be displayed
 5)Most active time period of mentioned user or whole group will be displayed
